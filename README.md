@@ -1,5 +1,5 @@
 # genedateR
-R code to detect gene names converted to dates in R
+R code to detect gene names converted to dates in Excel
 
 The code basically finds numbers stored as text in Excel sheets that are in a range that would convert to a date in the last ~30 years
 
